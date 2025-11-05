@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Ajmera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="48%" />
 
 </div>
 
@@ -49,21 +49,6 @@
 
 <div align="center">
 
-```python
-def who_am_i():
-    return {
-        "name": "Pujan Ajmera",
-        "focus": "Building things that matter",
-        "mindset": "Always learning, always shipping"
-    }
-```
-
-</div>
-
-<br/><br/><br/>
-
-<div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
 
 </div>
@@ -72,7 +57,7 @@ def who_am_i():
 
 <div align="center">
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Pujan-Ajmera&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
