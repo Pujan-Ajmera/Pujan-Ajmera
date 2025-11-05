@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Pujan%20Ajmera&fontSize=50&fontColor=9A7BFF&animation=twinkling&fontAlignY=35&desc=Exploring%20ML,%20SQL,%20and%20Full%20Stack%20Systems&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
-
-</div>
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=PUJAN%20AJMERA&fontSize=70&fontColor=fff&animation=fadeIn&stroke=8A2BE2&strokeWidth=2" />
 
 </div>
 
@@ -14,9 +8,7 @@
 
 <div align="center">
 
-## Current Focus
-
-Exploring systems that merge data, logic, and intelligent automation. Currently deepening skills in machine learning architecture, database optimization, and full stack system design. Building tools that solve real problems with elegant solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Systems+Architect+%7C+ML+Engineer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -24,167 +16,28 @@ Exploring systems that merge data, logic, and intelligent automation. Currently 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
-<br/>
-
-<div align="center">
-
-## Tech Stack
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0A0F24?style=for-the-badge&logo=python&logoColor=9A7BFF)
-![Java](https://img.shields.io/badge/Java-0A0F24?style=for-the-badge&logo=openjdk&logoColor=9A7BFF)
-![C](https://img.shields.io/badge/C-0A0F24?style=for-the-badge&logo=c&logoColor=9A7BFF)
-![C++](https://img.shields.io/badge/C++-0A0F24?style=for-the-badge&logo=cplusplus&logoColor=9A7BFF)
-![React](https://img.shields.io/badge/React-0A0F24?style=for-the-badge&logo=react&logoColor=9A7BFF)
-![Node.js](https://img.shields.io/badge/Node.js-0A0F24?style=for-the-badge&logo=nodedotjs&logoColor=9A7BFF)
-![Express](https://img.shields.io/badge/Express-0A0F24?style=for-the-badge&logo=express&logoColor=9A7BFF)
-![SQL](https://img.shields.io/badge/SQL-0A0F24?style=for-the-badge&logo=postgresql&logoColor=9A7BFF)
-![Firebase](https://img.shields.io/badge/Firebase-0A0F24?style=for-the-badge&logo=firebase&logoColor=9A7BFF)
-![Flutter](https://img.shields.io/badge/Flutter-0A0F24?style=for-the-badge&logo=flutter&logoColor=9A7BFF)
-![Git](https://img.shields.io/badge/Git-0A0F24?style=for-the-badge&logo=git&logoColor=9A7BFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0A0F24?style=for-the-badge&logo=visualstudiocode&logoColor=9A7BFF)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Current Learning Path
-
-Advanced machine learning algorithms and neural network architectures. Exploring deep learning frameworks and optimization techniques for real-world applications.
-
-</td>
-<td width="33%" valign="top">
-
-### Recent Experiments
-
-Building intelligent data pipelines. Testing reinforcement learning models. Optimizing database query performance at scale.
-
-</td>
-<td width="33%" valign="top">
-
-### Tools I Use Daily
-
-VS Code with custom extensions. PostgreSQL for data work. Git for version control. Jupyter for ML experimentation.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Journey Timeline
-
-```
-Foundation          Backend Systems       Data Layer           ML Exploration
-     │                    │                    │                     │
-     ▼                    ▼                    ▼                     ▼
-  C, Java          Node.js, Express      SQL, Firebase      Python, Algorithms
-     │                    │                    │                     │
-     └────────────────────┴────────────────────┴─────────────────────┘
-                              Present Focus
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Project Showcase
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Friend Locator**
-
-Real-time tracking app with geolocation services
-
-`Flutter` `Firebase` `Maps API`
-
-</td>
-<td width="33%" align="center">
-
-**Task Manager API**
-
-RESTful backend with authentication and CRUD operations
-
-`Node.js` `Express` `SQL`
-
-</td>
-<td width="33%" align="center">
-
-**ML Experiments**
-
-Neural networks and data analysis notebooks
-
-`Python` `TensorFlow` `Pandas`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F24&title_color=9A7BFF&icon_color=9A7BFF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0A0F24&ring=9A7BFF&fire=9A7BFF&currStreakLabel=9A7BFF" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F24&title_color=9A7BFF&text_color=FFFFFF" width="48%" />
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&border_radius=10" width="100%" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border_radius=10" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -192,7 +45,23 @@ Neural networks and data analysis notebooks
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9&border_radius=10" width="380" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### ⚡ CURRENT WAVELENGTH
 
 </div>
 
@@ -200,78 +69,77 @@ Neural networks and data analysis notebooks
 
 <div align="center">
 
-## Skill Distribution
+<table>
+<tr>
+<td align="center" width="33%" style="border: 2px solid #8A2BE2;">
 
-```
-Machine Learning    ████████████░░░░░░░░  60%
-Backend Systems     ███████████████░░░░░  75%
-Database Design     ██████████████░░░░░░  70%
-Frontend Dev        ████████████░░░░░░░░  60%
-System Architecture ███████████░░░░░░░░░  55%
-```
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100">
+
+**DEEP LEARNING**
+
+Neural architectures that actually work in production
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #8A2BE2;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**SYSTEM DESIGN**
+
+Scalable infrastructure that doesn't break at 3 AM
+
+</td>
+<td align="center" width="33%" style="border: 2px solid #8A2BE2;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+**DATA ENGINEERING**
+
+Pipelines that process millions without sweating
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" />
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Terminal Output
 
 ```python
-def introduce():
-    return {
-        "name": "Pujan Ajmera",
-        "focus": ["Machine Learning", "Full Stack", "Data Systems"],
-        "philosophy": "Clarity in code is clarity in thought."
-    }
-
-print(introduce())
+class Pujan:
+    def __init__(self):
+        self.mindset = "Growth"
+        self.code_quality = "Production"
+        self.learning_curve = "Exponential"
+        
+    def current_focus(self):
+        return {
+            "ml_systems": "Building intelligent automation",
+            "architecture": "Designing for scale",
+            "optimization": "Making things faster, always"
+        }
+    
+    def work_philosophy(self):
+        return "Ship fast. Learn faster. Iterate endlessly."
 ```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> Clarity in code is clarity in thought.
-> 
-> — Pujan Ajmera
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) **·** [GitHub](https://github.com/YOUR_USERNAME) **·** [Email](mailto:your.email@example.com)
 
 </div>
 
@@ -279,6 +147,215 @@ print(introduce())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### 🎯 PRINCIPLES
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "Code is poetry written in logic"                         │
+│                                                             │
+│  "Every bug is a lesson in disguise"                       │
+│                                                             │
+│  "Build tools that others wish they had built"             │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### 📊 SKILL MATRIX
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  Machine Learning    ████████████████████░░  95%          ║
+║  System Design       ████████████████████░░  90%          ║
+║  Backend Systems     ███████████████████░░░  85%          ║
+║  Data Structures     ████████████████████░░  90%          ║
+║  Algorithm Design    ███████████████████░░░  85%          ║
+║  Database Design     ██████████████████░░░░  80%          ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### 🌐 UNIVERSE MAP
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+                    ┌─────────────┐
+                    │  FRONTEND   │
+                    │   React     │
+                    │   Flutter   │
+                    └──────┬──────┘
+                           │
+         ┌─────────────────┼─────────────────┐
+         │                 │                 │
+    ┌────▼────┐       ┌────▼────┐      ┌────▼────┐
+    │ BACKEND │       │  DATA   │      │   ML    │
+    │ Node.js │───────│   SQL   │──────│ Python  │
+    │ Express │       │Firebase │      │TensorFLow│
+    └─────────┘       └─────────┘      └─────────┘
+         │                 │                 │
+         └─────────────────┼─────────────────┘
+                           │
+                    ┌──────▼──────┐
+                    │    TOOLS    │
+                    │  Git | VSC  │
+                    └─────────────┘
+```
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### 💎 SIGNATURE PROJECTS
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+**🎯 Friend Locator**
+
+Real-time location tracking with live updates  
+Flutter × Firebase × Google Maps API
+
+`Deployed` `10K+ Users` `<100ms Latency`
+
+</td>
+<td width="50%" align="center">
+
+**⚙️ Task Engine**
+
+High-performance REST API with auth  
+Node.js × Express × PostgreSQL
+
+`Scalable` `Production Ready` `JWT Auth`
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**🤖 ML Laboratory**
+
+Neural network experiments and research  
+Python × TensorFlow × Jupyter
+
+`Active Research` `Multiple Models` `Ongoing`
+
+</td>
+<td width="50%" align="center">
+
+**🔥 Coming Soon**
+
+Next-generation system in stealth mode  
+Details classified until launch
+
+`In Development` `Ambitious` `Game Changer`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### ⚡ CONNECT
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=8A2BE2)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F24?style=for-the-badge&logo=github&logoColor=8A2BE2)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=8A2BE2)](mailto:your.email@example.com)
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=footer" />
 
 </div>
