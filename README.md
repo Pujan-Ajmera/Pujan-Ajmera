@@ -70,8 +70,8 @@
 </div><div align="center">
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/pujan-ajmera-9590582b8)
+[![Email](https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:pujanajmera22@gmail.com)
 
 </div>
 
