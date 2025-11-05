@@ -1,27 +1,65 @@
-<h1 align="center">Hi 👋, I'm Pujan Ajmera</h1>
-<h3 align="center">A passionate programmer from Bharat</h3>
+<!-- Minimal Aesthetic GitHub Profile README for Pujan Ajmera -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pujan-ajmera&label=Profile%20views&color=0e75b6&style=flat" alt="pujan-ajmera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pujan-ajmera" alt="pujan-ajmera" /></a> </p>
-
-- 🌱 I’m currently learning **Node , MongoDB , React and DATA STRUCTURES**
-
-- 👯 I’m looking to collaborate on **java files**
-
-- 📫 How to reach me **ajmerapujan22@gmail.com**
-
-- ⚡ Fun fact **Even Batman has a GitHub profile—because even the Dark Knight needs version control for his crime-fighting gadgets**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9A7BFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Pujan+Ajmera;A+Passionate+Developer;Focused+on+Code,+Design,+and+Logic" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pujan-Ajmera&style=flat-square&color=9a7bff" alt="Profile Views" />
+  <a href="https://github.com/Pujan-Ajmera?tab=followers">
+    <img src="https://img.shields.io/github/followers/Pujan-Ajmera?label=Followers&style=flat-square&color=9a7bff" alt="GitHub Followers" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujan-ajmera&show_icons=true&locale=en&layout=compact" alt="pujan-ajmera" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujan-ajmera&show_icons=true&locale=en" alt="pujan-ajmera" /></p>
+### About Me
+I’m Pujan Ajmera, a developer who enjoys creating clean, efficient, and meaningful projects.  
+I value code readability, logical structure, and thoughtful design.  
+Always learning, improving, and building better things.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pujan-ajmera&" alt="pujan-ajmera" /></p>
+- Currently exploring Full Stack Development with React and Node.js  
+- Interested in software design, optimization, and backend systems  
+- Open to collaboration and new learning opportunities  
+- I believe in writing code that feels elegant and intentional  
+
+---
+
+### Tech Stack
+**Languages:** C, C++, Java, Python, HTML, CSS, JavaScript, TypeScript  
+**Frameworks:** React, Node.js, Express, Flutter, Firebase  
+**Tools:** Git, GitHub, VS Code, MySQL, Figma, Linux  
+
+---
+
+### Featured Projects
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| Friend Locator App | Real-time friend tracking with Firebase and Flutter | Flutter, Firebase |
+| Portfolio Website | Personal responsive portfolio | HTML, CSS, JavaScript |
+| Task Manager API | RESTful API with authentication and data handling | Node.js, Express, MongoDB |
+
+---
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pujan-Ajmera&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pujan-Ajmera&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pujan-Ajmera&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+### Connect With Me
+- [LinkedIn](https://linkedin.com/in/pujan-ajmera)  
+- [GitHub](https://github.com/Pujan-Ajmera)  
+- [Email](mailto:pujanajmera@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9A7BFF&height=100&section=footer"/>
+</p>
