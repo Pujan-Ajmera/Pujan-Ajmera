@@ -67,27 +67,8 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-</div>
+</div><div align="center">
 
-<br/><br/><br/>
-
-<div align="center">
-
-> Code with purpose. Build with intention. Ship with confidence.
-
-</div>
-
-<br/><br/><br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="800">
-
-</div>
-
-<br/><br/>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F24?style=for-the-badge&logo=linkedin&logoColor=8B5CF6)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-0A0F24?style=for-the-badge&logo=gmail&logoColor=8B5CF6)](mailto:your.email@example.com)
