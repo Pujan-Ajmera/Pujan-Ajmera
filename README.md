@@ -1,8 +1,8 @@
 # Pujan Ajmera
 
-Currently working on an AI calling agent using Node.js and Twilio.  
+Currently working on an  Node.js and Flutter  
 Experienced in Java, React.js, Node.js, and Express.js.  
-Interested in backend systems, automation, and AI integrations.
+Interested in backend systems, automation.
 
 ---
 
