@@ -1,6 +1,8 @@
 # Pujan Ajmera
 
-Currently working on an  Node.js and Flutter  
+Currently working on an  Node.js and Flutter.
+learning a bit of datastructures and algorithms
+
 Experienced in Java, React.js, Node.js, and Express.js.  
 Interested in backend systems, automation.
 
