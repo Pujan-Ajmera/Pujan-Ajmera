@@ -12,6 +12,7 @@ Interested in backend systems, automation.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujanajmera&show_icons=true&theme=default)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pujanajmera)](https://git.io/streak-stats)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pujanajmera&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujanajmera&layout=compact&theme=default)
