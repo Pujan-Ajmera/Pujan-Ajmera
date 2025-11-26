@@ -9,7 +9,5 @@ Interested in backend systems and automation.
 ---
 
 ## Connect
-
-GitHub: https://github.com/pujanajmera  
 LinkedIn: https://www.linkedin.com/in/pujan-ajmera-9590582b8/  
 Email: ajmerapujan22@gmail.com
