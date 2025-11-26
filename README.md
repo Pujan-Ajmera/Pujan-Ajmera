@@ -1,26 +1,15 @@
 # Pujan Ajmera
 
-Currently working on an  Node.js and Flutter.
-learning a bit of datastructures and algorithms
+Working with Node.js and Flutter.  
+Learning data structures and algorithms.
 
 Experienced in Java, React.js, Node.js, and Express.js.  
-Interested in backend systems, automation.
-
----
-## Final
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujanajmera&show_icons=true&theme=default)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pujanajmera)](https://git.io/streak-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=pujanajmera&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujanajmera&layout=compact&theme=default)
+Interested in backend systems and automation.
 
 ---
 
 ## Connect
 
-- **GitHub:** [github.com/pujanajmera](https://github.com/pujanajmera)  
-- **LinkedIn:** [linkedin.com/in/pujan-ajmera-9590582b8](https://www.linkedin.com/in/pujan-ajmera-9590582b8/)  
-- **Email:** [ajmerapujan22@gmail.com](mailto:ajmerapujan22@gmail.com)
+GitHub: https://github.com/pujanajmera  
+LinkedIn: https://www.linkedin.com/in/pujan-ajmera-9590582b8/  
+Email: ajmerapujan22@gmail.com
