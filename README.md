@@ -2,7 +2,6 @@
 
 Working with Node.js and Flutter.  
 Learning data structures and algorithms.
-
 Experienced in Java, React.js, Node.js, and Express.js.  
 Interested in backend systems and automation.
 
